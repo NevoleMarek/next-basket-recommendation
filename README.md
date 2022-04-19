@@ -21,18 +21,27 @@ where A is a real basket and B is a predicted one. Final score is a mean of $J_g
 jaccard index takes into account cases where there is multiple occurrences of same products in one basket. Therefore the
 scoring function is stricter.
 
-------------------------
-Score in 1st rnd: TBA
+### Solutions
 
-Position among others 1st rnd: TBA
+**Top frequency** solution to this problem is in jupyter notebook [here](top-frequency.ipynb).
+
+------------------------
+
+Score in 1st rnd: TBA
 
 Score in 2nd rnd: TBA
 
-Position among others 2nd rnd: TBA
-
 ---------------------------
 
-My solution to this problem is in jupyter notebook [here](next_basket_recommendation.ipynb). 
+**Multilabel classification** solution to this problem is in jupyter notebook [here](multilabel-classification.ipynb).
+
+------------------------
+
+Score in 1st rnd: TBA
+
+Score in 2nd rnd: TBA
+
+---------------------------
 
 Unfortunately I cannot provide the data for the problem as to avoid any legal issues. The data has been provided by
 a external company in collaboration with the university.
