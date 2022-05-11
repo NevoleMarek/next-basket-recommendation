@@ -27,7 +27,18 @@ scoring function is stricter.
 
 ------------------------
 
-Score in 1st rnd: TBA
+Score in 1st rnd: 0.188
+
+Score in 2nd rnd: TBA
+
+---------------------------
+
+
+**Markov chain model** solution to this problem is in jupyter notebook [here](markov-chain-model.ipynb).
+
+------------------------
+
+Score in 1st rnd: 0.132
 
 Score in 2nd rnd: TBA
 
@@ -37,9 +48,7 @@ Score in 2nd rnd: TBA
 
 ------------------------
 
-Score in 1st rnd: TBA
-
-Score in 2nd rnd: TBA
+Not finished (just data preprocessing)
 
 ---------------------------
 
